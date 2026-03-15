@@ -129,6 +129,7 @@ rsync -av /data/ /backup/
 
 Only the modified file will be synchronized.
 
+![incremental-backup](screenshots/05-incremental-backup.png)
 ---
 
 ## Step 6: Create Backup Script
