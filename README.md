@@ -69,7 +69,7 @@ Install if required:
 ```bash
 dnf install rsync -y
 ```
-![rsync version](screenshots/01 rsync version.png)
+![rsync version](screenshots/01-rsync-version.png)
 ---
 
 ## Step 2: Create Source Directory
