@@ -94,7 +94,7 @@ ls /data
 ```bash
 mkdir /backup
 ```
-
+![backup-directory](screenshots/03-backup-directory.png)
 ---
 
 ## Step 4: Perform Manual Backup
@@ -110,6 +110,7 @@ rsync -av /data/ /backup/
 | -a     | archive mode (preserves permissions, timestamps) |
 | -v     | verbose output                                   |
 
+![manual-backup](screenshots/04-manual-backup.png)
 ---
 
 ## Step 5: Test Incremental Backup
