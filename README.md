@@ -31,18 +31,6 @@ cron → runs backup.sh automatically
 
 ---
 
-## Directory Structure
-
-```
-linux-backup-automation/
-│
-├── backup.sh
-├── README.md
-└── screenshots/
-```
-
----
-
 ## Step 1: Install rsync
 
 Check if rsync is installed:
