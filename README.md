@@ -223,5 +223,3 @@ Screenshots are stored in the `screenshots` directory.
 
 Bibin Mathew  
 RHCSA Certified Linux System Administrator
-
-Created as part of Linux administration learning and portfolio development.
