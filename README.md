@@ -163,7 +163,8 @@ Test:
 ```bash
 /usr/local/bin/backup.sh
 ```
-
+![backup-script](screenshots/06-backup-script1.png)
+![backup-script](screenshots/07-backup-script2.png)
 ---
 
 ## Step 7: Automate Backup with cron
