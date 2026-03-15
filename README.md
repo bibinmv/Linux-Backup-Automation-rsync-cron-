@@ -40,7 +40,7 @@ Automation: cron job runs the backup script daily
 * rsync
 * cron
 * Bash scripting
-* Git & GitHub
+* GitHub
 
 ---
 
@@ -69,7 +69,7 @@ Install if required:
 ```bash
 dnf install rsync -y
 ```
-
+![rsync version](screenshots/01 rsync version.png)
 ---
 
 ## Step 2: Create Source Directory
