@@ -198,7 +198,7 @@ Check cron jobs:
 ```bash
 crontab -l
 ```
-
+![cron-job](screenshots/08-cron-job.png)
 ---
 
 ## Step 8: Verify Logs
