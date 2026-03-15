@@ -86,7 +86,7 @@ Verify:
 ```bash
 ls /data
 ```
-
+![data-directory](screenshots/02-data-directory.png)
 ---
 
 ## Step 3: Create Backup Directory
